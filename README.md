@@ -29,3 +29,4 @@ Note: Start the Ollama command-line chat client with your desired model (for exa
 2. Run a model on CLI:
    ```bash
    ollama run llama3.2:3b
+Note: Ollama service run on start up.so you can start using ollama command right away.
