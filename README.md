@@ -35,7 +35,7 @@ Note: Ollama service run on start up, so you can start using ollama command righ
 
 #Using Open WebUI
 
-1. Run the command line below to install Open WebUI:
+1. Run the command line below to install Open WebUI (run once, for the first setup only):
    ```bash
    sudo docker run -d --network=host \
    -v ${HOME}/open-webui:/app/backend/data \
@@ -44,7 +44,7 @@ Note: Ollama service run on start up, so you can start using ollama command righ
    --restart always \
    ghcr.io/open-webui/open-webui:main
 
-2. Command line to run Open WebUI: 
+2. Command line to run Open WebUI (need to run everytime wants to interact with LLM Model): 
    ```bash
    sudo docker start open-webui
 
