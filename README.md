@@ -19,7 +19,7 @@
    ```bash
    jetson-containers run $(autotag ollama) /bin/ollama run phi3
 
-Note: Start the Ollama command-line chat client with your desired model (for example: llama3 , phi3 , mistral , deepseek-r1:32b )
+Note: Start the Ollama command-line chat client with your desired model (for example: llama3 , phi3 , mistral , deepseek-r1:1.5b )
 
 ##Native Installation
 
