@@ -33,7 +33,7 @@ Note: Start the Ollama command-line chat client with your desired model (for exa
    
 Note: Ollama service run on start up, so you can start using ollama command right away.
 
-#Using Open WebUI
+# Using Open WebUI
 
 1. Run the command line below to install Open WebUI (run once, for the first setup only):
    ```bash
