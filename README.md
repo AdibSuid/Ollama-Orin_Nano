@@ -13,7 +13,6 @@
 
 3. Install the packages:
    ```bash
-   cd  ..
    bash install.sh
 
 7. Run ollama docker container:
